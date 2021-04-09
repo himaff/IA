@@ -2421,7 +2421,7 @@ input, select, textarea {
 		}
 
 	ul {
-		list-style: disc;
+		list-style: decimal-leading-zero;
 		margin: 0 0 2em 0;
 		padding-left: 1em;
 	}
@@ -3571,7 +3571,7 @@ input, select, textarea {
 		}
 
 		#main > .main {
-			padding: 5em 2em 3em 2em ;
+			padding: 3em 2em 1em 2em ;
 			border-top: solid 1px #dddddd;
 		}
 
